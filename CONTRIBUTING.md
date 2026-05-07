@@ -25,7 +25,8 @@ Before submitting your library must:
 {
   "your-library": {
     "repo": "your-username/your-repo",
-    "description": "A short description of your library"
+    "description": "A short description of your library",
+    "author": "your-github-username"
   }
 }
 ```
